@@ -25,3 +25,4 @@ function calculaSaldo(saldoDisponivel, lista) {
 }
 
 console.log(calculaSaldo(saldoDisponivel, lista));
+console.log(lista)
